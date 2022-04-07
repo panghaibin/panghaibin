@@ -1,0 +1,3 @@
+[submodule "Casio-Calc-Web-Keylog"]
+	path = Casio-Calc-Web-Keylog
+	url = https://github.com/panghaibin/Casio-Calc-Web-Keylog.git
